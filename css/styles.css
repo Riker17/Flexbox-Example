@@ -1,0 +1,38 @@
+.btn {
+  height: 35px;
+}
+
+.boxes--flexy1 {
+  height: 250px;
+  background-color: green;
+  margin-bottom: 100px;
+  margin-top: 100px;
+  border: 2px solid black;
+}
+
+.boxes--flexy2 {
+  height: 50%;
+  background-color: blue;
+  border: 2px solid black;
+  display: flex;
+}
+
+.boxes--flexy3 {
+  height: 250px;
+  background-color: red;
+  border: 2px solid black;
+  margin-bottom: 100px;
+}
+
+#FlexFix {
+  position: relative;
+  bottom: 100px;
+  left: 47%;
+}
+
+#Boxes2 {
+  background-color: rgba(0,0,0,.25);
+  margin-bottom: 100px;
+  display: flex;
+  height: 600px;
+}
