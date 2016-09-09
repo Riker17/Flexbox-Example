@@ -36,3 +36,8 @@
   display: flex;
   height: 600px;
 }
+
+.header--text_font {
+  font-family: 'Tangerine', cursive;
+  font-size: 5em;
+}

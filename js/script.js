@@ -122,7 +122,7 @@ $('#ArrangeStuff2').click(function(){
 
 $('#ArrangeStuff3').click(function(){
   if($('.boxes--flexy3').css('align-content') == 'center'){
-    $('.boxes--flexy3').css('align-content', '')
+    $('.boxes--flexy3').css('align-content', 'space-around');
   }
   else $('.boxes--flexy3').css('align-content', 'center');
 });
